@@ -1,1 +1,3 @@
 # jenkins_test
+
+Jojo readme text je tady....
